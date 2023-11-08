@@ -21,16 +21,16 @@ import android.widget.RelativeLayout
 import androidx.core.view.isVisible
 
 val sender = listOf(
-    "John Doe",
-    "Alice Smith",
-    "Robert Johnson",
-    "Karen Williams",
-    "Michael Brown",
+    "Lili",
+    "Kane",
+    "Richard Taylor",
+    "Joseph White",
+    "Lili",
     "Jennifer Jones",
     "William Davis",
-    "Elizabeth Miller",
+    "Lili",
     "David Wilson",
-    "Mary Moore",
+    "Kane",
     "Richard Taylor",
     "Patricia Anderson",
     "Charles Thomas",
@@ -38,19 +38,19 @@ val sender = listOf(
     "Joseph White",
     "Susan Harris",
     "Thomas Martin",
-    "Margaret Thompson",
-    "Christopher Garcia",
-    "Dorothy Martinez"
+    "Kane",
+    "Susan Harris",
+    "Joseph White"
 )
 
 val content = listOf(
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
-    "Nisi ut aliquip ex ea commodo consequat.",
-    "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
-    "Eu fugiat nulla pariatur.",
-    "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "Hi, nice to meet you my friend",
+    "Hi, nice to meet you my friend",
+    "Hi, nice to meet you my friend",
+    "Hi, nice to meet you my friend",
+    "Hi, nice to meet you my friend Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+    "Hi, nice to meet you my friend Eu fugiat nulla pariatur.",
+    "Hi, nice to meet you my friendExcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
